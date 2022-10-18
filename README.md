@@ -14,3 +14,5 @@ Utilizing three datasets :
 
 Algorithms : Linear and Additive Regression Model
 
+Model evaulation : Corelation Coefficient, Relative Absolute Error
+
